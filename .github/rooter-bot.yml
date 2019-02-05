@@ -1,0 +1,6 @@
+check-for-new-files-in-domain-engine:
+  enabled: true
+check-for-backfills-and-domain-migrations:
+  enabled: true
+check-for-new-files-in-integration-tests-engine:
+  enabled: true
